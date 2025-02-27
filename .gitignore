@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Local model & embeddings directories (if caching large files)
+local_model/
+local_embeddings/
+chroma_db/
+temp_uploads/
