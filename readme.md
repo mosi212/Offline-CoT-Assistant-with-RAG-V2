@@ -21,7 +21,7 @@ After installing the project, simply run the application and open your browser t
 python main.py
 ```
 
-Then navigate to: [http://0.0.0.0:8000](http://0.0.0.0:8000)
+Then navigate to: [http://localhost:8000](http://localhost:8000)
 
 ## Installation
 
