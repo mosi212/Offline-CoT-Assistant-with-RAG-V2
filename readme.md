@@ -1,4 +1,5 @@
 # Offline CoT Assistant with RAG & Per-Session Memory
+![OFFLINERAG](https://github.com/user-attachments/assets/7bc84054-e983-4b8f-9212-62a236a7ca27)
 
 **Offline CoT Assistant** is a state-of-the-art AI assistant that leverages chain-of-thought (CoT) reasoning, retrieval-augmented generation (RAG), and per-session memory to provide clear, step-by-step answers. This project integrates multiple cutting-edge technologies—from transformers and LangChain to Gradio for a sleek, interactive UI—making it ideal for offline deployment and enterprise-grade solutions.
 
