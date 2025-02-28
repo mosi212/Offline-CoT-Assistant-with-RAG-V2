@@ -30,7 +30,7 @@ Then navigate to: [http://localhost:8000](http://localhost:8000)
 
    ```bash
    git clone https://github.com/mosi212/Offline-CoT-Assistant-with-RAG-V2.git
-   cd <your-repo-name>
+   cd Offline-CoT-Assistant-with-RAG-V2
    ```
 
 2. **Set up a virtual environment (optional but recommended):**
